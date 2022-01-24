@@ -1,5 +1,7 @@
 # Spring-boot & JPA 활용
 
+![image](https://user-images.githubusercontent.com/28651727/150728923-086a8f67-160d-4266-9d27-22b18dc42ce2.png)
+
 ## 프로젝트 환경 설정
 
 - spring-boot-starter-web
