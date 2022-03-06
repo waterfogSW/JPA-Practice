@@ -77,5 +77,5 @@ private List<Order> orders = new ArrayList<>();
 1. 논리명 생성 
 - `spring.jpa.hibernate.naming.implicit-strategy` : 테이블이나 컬럼명 명시하지 않을시 논리명 적용
 2. 물리명 적용
-- `srping.jpa.hibernate.naming.physical-strategy` : 모든 논리명에 적용됨, 실제 테이블에 적용
+- `spring.jpa.hibernate.naming.physical-strategy` : 모든 논리명에 적용됨, 실제 테이블에 적용
 -  username -> usernm 등의 회사 룰로 바꿀 수 있다.
